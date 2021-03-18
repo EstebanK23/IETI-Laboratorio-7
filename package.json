@@ -1,0 +1,19 @@
+{
+  "name": "taskplannerapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstebanK23/IETI-Laboratorio-7.git"
+  },
+  "author": "Esteban Bernal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstebanK23/IETI-Laboratorio-7/issues"
+  },
+  "homepage": "https://github.com/EstebanK23/IETI-Laboratorio-7#readme"
+}
